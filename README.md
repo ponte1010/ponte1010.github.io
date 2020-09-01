@@ -17,5 +17,4 @@
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
   </a>
 </p>
-
-<center>[![trophy](https://github-profile-trophy.vercel.app/?username=ponte1010)](https://github.com/ponte1010/ponte1010.github.io)</center>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ponte1010)](https://github.com/ponte1010/ponte1010.github.io)
