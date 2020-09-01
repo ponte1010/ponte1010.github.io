@@ -18,6 +18,6 @@
   </a>
 </p>
 
-<p align="center">
+<div style="text-align:center;">
   [![trophy](https://github-profile-trophy.vercel.app/?username=ponte1010)](https://github.com/ponte1010/ponte1010.github.io)
-</p>
+</>
